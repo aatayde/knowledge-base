@@ -6,6 +6,7 @@
   - [1.1 OSI Model](1.1%20OSI%20Model.md)
   - [1.2 Appliances](1.2%20appliances.md)
   - [1.3 Cloud & Connectivity](1.3%20cloud%20computing.md)
+  - [1.6 Network Topologies](1.6%20Network%20Topologies.md)
 - 2.0 Network Implementation 20%
 - 3.0 Network Operations 19%
 - 4.0 Network Security 14%
