@@ -11,5 +11,10 @@
   - [1.8 Network Environments](1.8%20Network%20Environments.md)
 - 2.0 Network Implementation 20%
 - 3.0 Network Operations 19%
+  - [3.1 Network Organizational Processes & Procedures](3.1%20network%20documentation%20and%20management.md)
+  - [3.2 Network Monitoring Technologies](3.2%20network%20monitoring%20technologies.md)
+  - [3.3 Disaster Recovery](3.3%20Disaster%20Recovery.md)
+  - [3.4 Dynamic Addressing & Name Resolution](3.4%20Dynamic%20Addressing%20and%20Name%20Resolution.md)
+  - [3.5 Network Access Methods](3.5%20Network%20Access%20Methods.md)
 - 4.0 Network Security 14%
 - 5.0 Network Troubleshooting 24%
