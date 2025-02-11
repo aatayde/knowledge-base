@@ -10,6 +10,7 @@
   - [1.7 IPv4 Network Addressing](1.7%20IPv4%20Network%20Addressing.md)
   - [1.8 Network Environments](1.8%20Network%20Environments.md)
 - 2.0 Network Implementation 20%
+  - [2.4 Physical Installations](2.4%20Physical%20Installations.md)
 - 3.0 Network Operations 19%
 - 4.0 Network Security 14%
 - 5.0 Network Troubleshooting 24%
